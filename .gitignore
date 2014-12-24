@@ -1,4 +1,5 @@
-src/*.o
-src/*.hi
+src/*/*.o
+src/*/*.hi
 dist/build/haskell-learning/haskell-learning-tmp/
 out/*
+.idea/*
