@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45bcbec6-6b60-4b2f-bcb3-97e6d8f7ac99" name="Default" comment="" />
+    <list default="true" id="45bcbec6-6b60-4b2f-bcb3-97e6d8f7ac99" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter_9_1/Capslocker.hi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter_9_1/Capslocker.o" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter_9_1/shortlinesonly.hi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter_9_1/shortlinesonly.o" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/haiku.txt" afterPath="$PROJECT_DIR$/src/chapter_9_1/haiku.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/shortlines.txt" afterPath="$PROJECT_DIR$/src/chapter_9_1/shortlines.txt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/shortlinesonly.hs" afterPath="$PROJECT_DIR$/src/chapter_9_1/shortlinesonly.hs" />
+    </list>
     <ignored path="haskell-learning.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,16 +34,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="shortlinesonly.hs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/shortlinesonly.hs">
+        <entry file="file://$PROJECT_DIR$/src/chapter_9_1/shortlinesonly.hs">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25" vertical-offset="0" max-vertical-offset="660">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.13636364" vertical-offset="0" max-vertical-offset="660">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -108,6 +119,10 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter_9_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -128,6 +143,11 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/chapter_9_1" />
+    </key>
   </component>
   <component name="RunManager" selected="Haskell.haskell-learning">
     <configuration default="false" name="haskell-learning" type="CabalRunConfiguration" factoryName="Haskell" temporary="true">
@@ -329,7 +349,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="757" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -383,10 +403,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/shortlinesonly.hs">
+    <entry file="file://$PROJECT_DIR$/src/chapter_9_1/shortlinesonly.hs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25" vertical-offset="0" max-vertical-offset="660">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.13636364" vertical-offset="0" max-vertical-offset="660">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
