@@ -2,4 +2,4 @@ src/*/*.o
 src/*/*.hi
 dist/build/haskell-learning/haskell-learning-tmp/
 out/*
-.idea/*
+.idea/
