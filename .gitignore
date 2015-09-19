@@ -3,3 +3,5 @@ src/*/*.hi
 dist/*
 out/*
 .idea/
+.cabal-sandbox
+cabal.sandbox.config
